@@ -1,3 +1,16 @@
+main{
+    border: 20px solid rebeccapurple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    display: right;
+    text-align: right;
+    align-items: reght;
+}
+
 header {
     user-select: none;
     border: 5px solid rgb(255, 0, 242);
